@@ -9,7 +9,7 @@
 title: Kurama Okubo website
 author: Kurama OKUBO
 url: "https://kura-okubo.github.io"
-baseurl: "https://kura-okubo.github.io/" 
+baseurl: "" 
 
 markdown: kramdown
 
