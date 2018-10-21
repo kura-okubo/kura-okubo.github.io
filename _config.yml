@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+
+title: Kurama Okubo website
+author: Kurama OKUBO
+url: "https://kura-okubo.github.io"
+baseurl: "" 
+
+markdown: kramdown
+
+tracking_id: #
+
+include:
+  - .htaccess
+  - _pages
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Original page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+nav:
+ - name: "CV"
+   link: "contents/cv_okubo.pdf"
+ - name: "News"
+   link: "/news.html"
+ - name: "Research"
+   link: "/research.html"
+ - name: "Publication"
+   link: "/publication.html"
+ - name: "Contact"
+   link: "/contact.html"
