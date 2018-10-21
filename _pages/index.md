@@ -17,3 +17,5 @@ I'm working on earthquake source mechanics using dynamic earthquake rupture mode
 _Key words: dynamic earthquake rupture modelling, off-fault damage, earthquake source mechanics, combined Finite-Discrete Element Method (FDEM)_
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6453-8238" href="https://orcid.org/0000-0001-6453-8238" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6453-8238</a></div>
+
+<a class="github-button" href="https://github.com/kura-okubo" data-size="large" aria-label="Follow @kura-okubo on GitHub">Follow @kura-okubo</a>
