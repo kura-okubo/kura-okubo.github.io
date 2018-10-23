@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 
-title: Kurama Okubo website
+title: Kurama Okubo
 author: Kurama OKUBO
 url: "https://kura-okubo.github.io"
 baseurl: "" 
@@ -44,6 +44,8 @@ timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_z
 
 
 nav:
+ - name: "Home"
+   link: "/index.html"
  - name: "CV"
    link: "contents/cv_okubo.pdf"
  - name: "News"
