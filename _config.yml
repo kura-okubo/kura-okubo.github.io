@@ -27,6 +27,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jekyll-sitemap
 
 # Markdown Processing
 kramdown:
