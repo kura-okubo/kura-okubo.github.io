@@ -53,7 +53,7 @@
             <ul id="navlist" class="alignable pull-left navbar-ul">
                 {% for x in site.nav %}
 
-                    <li class="alignable pull-left nav-list"><a href="{{ base_path }}/{{x.link}}">{{ x.name }}</a>
+                    <li class="alignable pull-left nav-list"><a href="{{ base_path }}{{x.link}}">{{ x.name }}</a>
 
                     {% if forloop.last == false %}
                         /
