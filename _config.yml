@@ -49,7 +49,7 @@ nav:
  - name: "Home"
    link: "/index.html"
  - name: "CV"
-   link: "contents/cv_okubo.pdf"
+   link: "/contents/cv_okubo.pdf"
  - name: "News"
    link: "/news.html"
  - name: "Research"
