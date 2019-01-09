@@ -8,7 +8,8 @@ permalink: "/index.html"
 
 <img class="profile-picture" src="photos/okubo01.jpg">
 
-I am a Research Scientist at the [Institut de Physique du Globe de Paris](http://www.ipgp.fr/fr){:target="_blank"} and the [Ecole Normale Supérieure Paris](http://www.geologie.ens.fr/spiplabocnrs/){:target="_blank"}.
+I am a Post-Doctoral Fellow 
+at [Harvard University, Department of Earth and Planetary Sciences](https://eps.harvard.edu){:target="_blank"}.
 
 ## Research Interest
 

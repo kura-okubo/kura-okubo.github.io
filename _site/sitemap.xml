@@ -9,6 +9,10 @@
 <lastmod>2018-10-23T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/20190109/</loc>
+<lastmod>2019-01-09T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact.html</loc>
 </url>
 <url>
@@ -25,6 +29,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/contents/cv_okubo.pdf</loc>
-<lastmod>2018-12-30T17:13:17+01:00</lastmod>
+<lastmod>2019-01-09T23:11:11+01:00</lastmod>
 </url>
 </urlset>

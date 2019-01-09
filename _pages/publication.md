@@ -11,7 +11,7 @@ Coming soon.
 ## <font color="OrangeRed">Publications</font>
 [1] Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., Baize, S., Langridge, R., and Bhat, H. S. Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 2018, [Link](https://doi.org/10.1029/2018GL078842){:target="_blank"}.
 
-[2] Okubo, K. _et al._ Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _to be subm._
+[2] Okubo, K. _et al._ Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _subm._
 
 
 ---
