@@ -5,7 +5,7 @@ title: "Publication"
 permalink: /publication.html
 ---
 ## <font color="MediumSeaGreen">Up coming Talks</font>
-Coming soon.
+[1]	Okubo, K. Modeling dynamic earthquake ruptures on multiscale fault and fracture networks. __BiSEPPS Seminar, Harvard University, MA, USA__, February 6, 2019.
 
 ---
 ## <font color="OrangeRed">Publications</font>
