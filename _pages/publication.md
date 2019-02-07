@@ -39,7 +39,7 @@ Selected for [the 2018 Outstanding Student Poster and PICO (OSPP) Awards](https:
 ---
 ##  <font color="OrangeRed">Seminars</font>
 
-[1]	Okubo, K.  Bhat, H. S., Rougier, E., and Klinger, Y. Modeling dynamic earthquake ruptures on multiscale fault and fracture networks. __BiSEPPS Seminar, Harvard University, MA, USA__, February 6, 2019.
+[1]	Okubo, K.  Bhat, H. S., Rougier, E., and Klinger, Y. Modeling dynamic earthquake ruptures on multiscale fault and fracture networks. [__BiSEPPS Seminar, Harvard University, MA, USA__](https://eps.harvard.edu/event/kurama-okubo), February 6, 2019.
 
 [2] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Dynamic earthquake rupture modelling with coseismic off-fault damage : from theory to application to the 2016 mw 7.8 kaikōura earthquake.. __BRGM, Orléans, France__, November 2018.
 
