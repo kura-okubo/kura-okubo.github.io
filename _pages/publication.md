@@ -5,8 +5,6 @@ title: "Publication"
 permalink: /publication.html
 ---
 ## <font color="MediumSeaGreen">Up coming Talks</font>
-[1]	Okubo, K. Modeling dynamic earthquake ruptures on multiscale fault and fracture networks. __BiSEPPS Seminar, Harvard University, MA, USA__, February 6, 2019.
-
 ---
 ## <font color="OrangeRed">Publications</font>
 [1] Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., Baize, S., Langridge, R., and Bhat, H. S. Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 2018, [Link](https://doi.org/10.1029/2018GL078842){:target="_blank"}.
@@ -41,15 +39,17 @@ Selected for [the 2018 Outstanding Student Poster and PICO (OSPP) Awards](https:
 ---
 ##  <font color="OrangeRed">Seminars</font>
 
-[1] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Dynamic earthquake rupture modelling with coseismic off-fault damage : from theory to application to the 2016 mw 7.8 kaikōura earthquake.. __BRGM, Orléans, France__, November 2018.
+[1]	Okubo, K.  Bhat, H. S., Rougier, E., and Klinger, Y. Modeling dynamic earthquake ruptures on multiscale fault and fracture networks. __BiSEPPS Seminar, Harvard University, MA, USA__, February 6, 2019.
 
-[2] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Off-fault damage induced by dynamic earthquake rupture: implications for rupture process, radiation and energy budget. __Los Alamos National Laboratory, NM, USA__, October 2017.
+[2] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Dynamic earthquake rupture modelling with coseismic off-fault damage : from theory to application to the 2016 mw 7.8 kaikōura earthquake.. __BRGM, Orléans, France__, November 2018.
 
-[3] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Evolution of secondary crack network around faults induced by dynamic earthquake rupture. __National Research Institute for Earth Science and Disaster Resilience, Tsukuba, Japan__, August 2017.
+[3] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Off-fault damage induced by dynamic earthquake rupture: implications for rupture process, radiation and energy budget. __Los Alamos National Laboratory, NM, USA__, October 2017.
 
-[4] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Off-fault fracture network induced by dynamic earthquake ruptures. __UMR Géoazur, Nice, France__, July 2017.
+[4] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Evolution of secondary crack network around faults induced by dynamic earthquake rupture. __National Research Institute for Earth Science and Disaster Resilience, Tsukuba, Japan__, August 2017.
 
-[5] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Earthquake rupture modeling on complex fault systems and complex media. __Los Alamos National Laboratory, NM, USA__, November 2016.
+[5] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Off-fault fracture network induced by dynamic earthquake ruptures. __UMR Géoazur, Nice, France__, July 2017.
+
+[6] Okubo, K., Bhat, H. S., Rougier, E., and Klinger, Y. Earthquake rupture modeling on complex fault systems and complex media. __Los Alamos National Laboratory, NM, USA__, November 2016.
 
 
 
