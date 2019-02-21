@@ -5,6 +5,11 @@ title: "Publication"
 permalink: /publication.html
 ---
 ## <font color="MediumSeaGreen">Up coming Talks</font>
+[1] EGU2019 session SM2.1/GD8.7/NH4.8 - Numerical modeling of earthquake physics (co-organized)
+__room -2.32 on Tuesday, 09 Apr 2019, 17:00__
+
+Okubo et al. **Dynamic earthquake ruptures with coseismic off-fault damage on finite faults and fault kinks**
+
 ---
 ## <font color="OrangeRed">Publications</font>
 [1] Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., Baize, S., Langridge, R., and Bhat, H. S. Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 2018, [Link](https://doi.org/10.1029/2018GL078842){:target="_blank"}.
