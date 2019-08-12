@@ -4,11 +4,26 @@ title: "Research"
 permalink: /research.html
 ---
 
-## Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage
+## [Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off‐fault damage](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB017304){:target="_blank"}
 
-To be submitted.
+First published: 06 August 2019
+
+<iframe width="680" height="400" rel="0"
+src="https://www.youtube.com/embed/jWD0B7CIv9w">
+</iframe>
+
+This animation shows the propagation of dynamic earthquake rupture on a planar fault with spontaneous activation of secondary fractures in the off-fault medium.
+The secondary fractures are dynamically activated by the dynamic earthquake rupture on the main fault, and the complicated feedback from the secondary fracture network, which enhance the high-frequency components in near-field ground motion. The color contour indicates particle velocity magnitude, while the white lines indicate the coseismic off-fault fracture network. Since all parameters are non-dimensionalized in this simulation, time is represented by the frame number. The results presented in this animation were obtained using the educational version of the Hybrid Optimization Software Suite (HOSSedu).
+
+Details can be found in [Okubo et al. (2019)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB017304){:target="_blank"}.
 
 ---
+## Continuous monitoring of elastic properties around faults using ambient seismic noise.
+
+In progress.
+
+---
+
 ## [Earthquake Damage Patterns Resolve Complex Rupture Processes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL078842){:target="_blank"}
 
 First published: 12 September 2018

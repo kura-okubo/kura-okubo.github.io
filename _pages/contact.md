@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact.html
 ---
 
-### Kurama OKUBO
+### Kurama Okubo
 
 Harvard University
 
