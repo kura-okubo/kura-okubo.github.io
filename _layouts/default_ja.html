@@ -1,7 +1,7 @@
 {% include base_path %}
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 
     {% if site.tracking_id %}
@@ -18,12 +18,13 @@
 
     {% endif %}
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{{ site.author_ja }}</title>
+
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, research, {{ site.author }}, {{ site.title }}, jekyll">
-    <meta name="author" content="{{ site.author }}">
+    <meta name="keywords" content="blog, research, {{ site.author_ja }}, {{ site.title }}, jekyll">
+    <meta name="author" content="{{ site.author_ja }}">
     {% if page.url == "/404.md" %}
         <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
@@ -47,17 +48,16 @@
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ base_path  }}" style="font-family: 'Helvetica', sans-serif;">{{ site.title }} </a> 
+            <a id="author-name" class="alignable pull-left" href="{{ site.index_ja  }}" style="font-family: 'Helvetica', sans-serif;"><font size="5">{{site.author_ja}}</font> </a>
 
-
-            <a class="alignable pull-right" href="{{ site.index_ja  }}" > Japanese </a> 
-            <dev class="alignable pull-right">  &nbsp/&nbsp  </dev> 
-            <a class="alignable pull-right" href="{{ base_path  }}"> English </a>
+            <a class="alignable pull-right" href="{{ site.index_ja  }}" > 日本語 </a>
+            <dev class="alignable pull-right">  &nbsp/&nbsp  </dev>
+            <a class="alignable pull-right" href="{{ base_path  }}"> 英語 </a>
 
             <br><br>
 
             <ul id="navlist" class="alignable pull-left navbar-ul">
-                {% for x in site.nav %}
+                {% for x in site.nav_ja %}
 
                     <li class="alignable pull-left nav-list"><a href="{{ base_path }}{{x.link}}">{{ x.name }}</a>
 

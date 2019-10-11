@@ -8,6 +8,7 @@
 
 title: Kurama Okubo
 author: Kurama OKUBO
+author_ja: 大久保　蔵馬
 url: "https://kura-okubo.github.io"
 baseurl: "" 
 
@@ -58,3 +59,23 @@ nav:
    link: "/publication.html"
  - name: "Contact"
    link: "/contact.html"
+
+nav_ja:
+ - name: "ホーム"
+   link: "/index_ja.html"
+ - name: "CV"
+   link: "/contents/cv_okubo.pdf"
+ - name: "ニュース"
+   link: "/news.html"
+ - name: "研究内容"
+   link: "/research.html"
+ - name: "出版物(論文)"
+   link: "/publication.html"
+ - name: "お問い合わせ"
+   link: "/contact.html"
+
+
+# for page in Japanese
+index_ja: "/index_ja.html" 
+
+
