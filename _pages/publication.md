@@ -13,7 +13,7 @@ permalink: /publication.html
 ---
 ## <font color="OrangeRed">Publications</font>
 
-[1] Jones, J.P., Okubo, K., Clements. T., & Denolle, M. (2020) [SeisIO: a fast, efficient geophysical data architecture for the Julia language](https://github.com/jpjones76/SeisIO.jl), submitted.
+[1] Jones, J.P., Okubo, K., Clements. T., & Denolle, M. (2020) [SeisIO: a fast, efficient geophysical data architecture for the Julia language](https://github.com/jpjones76/SeisIO.jl), accepted.
 
 
 [2]	Okubo, K., Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. [Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage.](https://doi.org/10.1029/2019JB017304){:target="_blank"} _J. Geophys. Res._, 2019.
