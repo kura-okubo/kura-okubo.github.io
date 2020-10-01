@@ -8,8 +8,8 @@ permalink: "/index.html"
 
 <img class="profile-picture" src="photos/okubo01.jpg">
 
-I am a Post-Doctoral Fellow 
-at [Harvard University, Department of Earth and Planetary Sciences](https://eps.harvard.edu){:target="_blank"}.
+I am a Researcher 
+at [the National Research Institute for Earth Science and Disaster Resilience (NIED)](https://www.bosai.go.jp/e/index.html){:target="_blank"}.
 
 ## Research Interest
 
