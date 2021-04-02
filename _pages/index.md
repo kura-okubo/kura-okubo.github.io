@@ -8,7 +8,7 @@ permalink: "/index.html"
 
 <img class="profile-picture" src="photos/okubo01.jpg">
 
-I am a Researcher 
+I am a postdoctoral researcher 
 at [the National Research Institute for Earth Science and Disaster Resilience (NIED)](https://www.bosai.go.jp/e/index.html){:target="_blank"}.
 
 ## Research Interest
