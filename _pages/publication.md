@@ -11,13 +11,23 @@ Will come soon... -->
 ---
 ## <font color="OrangeRed">Publications</font>
 
-[1]	Jones, J. P., Okubo, K., Clements, T., and Denolle, M. A. SeisIO: A Fast, Efficient Geophysical Data Architecture for the Julia Language. _Seismological Research Letters_, 04 2020, [Link](https://doi.org/10.1785/0220190295){:target="_blank"}.
+[1*] <u>Okubo, K.</u>, Delbridge, B. G., and Denolle, M. A. Monitoring velocity change over 20 years at parkfield. _under review_, 2023, [https://doi.org/10.22541/essoar.169841500.01678143/v1](https://doi.org/10.22541/essoar.169841500.01678143/v1).
 
-[2]	Okubo, K., Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _J. Geophys. Res._, 2019, [Link](https://doi.org/10.1029/2019JB017304){:target="_blank"}.
+[2]	Takemura, S., Hamada, Y., Okuda, H., Okada, Y., <u>Okubo, K.</u>, Akuhara, T., Noda, A., and Tonegawa, T. A review of shallow slow earthquakes along the Nankai Trough. _Earth, Planets and Space_, 75(1):164, 2023, [https://doi.org/10.1186/s40623-023-01920-6](https://doi.org/10.1186/s40623-023-01920-6).
 
-[3]	Okubo, K. [Dynamic earthquake ruptures on multiscale fault and fracture networks.](https://hal.archives-ouvertes.fr/tel-02004905){:target="_blank"} PhD thesis, Institut de Physique du Globe de Paris, November 2018.
+[3]	Yang, X., Bryan, J., <u>Okubo, K.</u>, Jiang, C., Clements, T., and Denolle, M. A. Optimal stacking of noise cross-correlation functions. _Geophys. J. Int._, 232(3):1600-1618, 2022, [https://doi.org/10.1093/gji/ggac410](https://doi.org/10.1093/gji/ggac410).
 
-[4]	Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., and others Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 45(19):10--279, 2018, [Link](https://doi.org/10.1029/2018GL078842){:target="_blank"}.
+[4]	Jara, J., Bruhat, L., Thomas, M. Y., Antoine, S. L., <u>Okubo, K.</u>, Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., and Bhat, H. S. Signature of transition to supershear rupture speed in the coseismic off-fault damage zone. _Proc. Math. Phys. Eng. Sci._, 477(2255):20210364, 2021, [https://doi.org/10.1098/rspa.2021.0364](https://doi.org/10.1098/rspa.2021.0364).
+
+[5]	Jones, J. P., <u>Okubo, K.</u>, Clements, T., and Denolle, M. A. SeisIO: A Fast, Efficient Geophysical Data Architecture for the Julia Language. _Seismological Research Letters_, 04 2020, [https://doi.org/10.1785/0220190295](https://doi.org/10.1785/0220190295).
+
+[6] Knight, E. E., Rougier, E., Lei, Z., Euser, B., Chau, V., Boyce, S. H., Gao, K., <u>Okubo, K.</u>, and Froment, M. HOSS: an implementation of the combined finite-discrete element method. _Computational Particle Mechanics_, 2020, [https://doi.org/10.1007/s40571-020-00349-y](https://doi.org/10.1007/s40571-020-00349-y).
+
+[7*]	<u>Okubo, K.</u>, Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _J. Geophys. Res._, 2019, [https://doi.org/10.1029/2019JB017304](https://doi.org/10.1029/2019JB017304).
+
+[8*]	<u>Okubo, K.</u> [Dynamic earthquake ruptures on multiscale fault and fracture networks.](https://hal.archives-ouvertes.fr/tel-02004905){:target="_blank"} PhD thesis, Institut de Physique du Globe de Paris, November 2018.
+
+[9]	Klinger, Y., <u>Okubo, K.</u>, Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., and others Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 45(19):10--279, 2018, [https://doi.org/10.1029/2018GL078842](https://doi.org/10.1029/2018GL078842).
 
 
 ---
