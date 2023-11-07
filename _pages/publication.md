@@ -11,7 +11,7 @@ Will come soon... -->
 ---
 ## <font color="OrangeRed">Publications</font>
 
-[1*] <u>Okubo, K.</u>, Delbridge, B. G., and Denolle, M. A. Monitoring velocity change over 20 years at parkfield. _under review_, 2023, [https://doi.org/10.22541/essoar.169841500.01678143/v1](https://doi.org/10.22541/essoar.169841500.01678143/v1).
+[1*] <u>Okubo, K.</u>, Delbridge, B. G., and Denolle, M. A. Monitoring velocity change over 20 years at Parkfield. _under review_, 2023, [https://doi.org/10.22541/essoar.169841500.01678143/v1](https://doi.org/10.22541/essoar.169841500.01678143/v1).
 
 [2]	Takemura, S., Hamada, Y., Okuda, H., Okada, Y., <u>Okubo, K.</u>, Akuhara, T., Noda, A., and Tonegawa, T. A review of shallow slow earthquakes along the Nankai Trough. _Earth, Planets and Space_, 75(1):164, 2023, [https://doi.org/10.1186/s40623-023-01920-6](https://doi.org/10.1186/s40623-023-01920-6).
 
