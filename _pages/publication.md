@@ -11,7 +11,8 @@ Will come soon... -->
 ---
 ## <font color="OrangeRed">Publications</font>
 
-[1*] <u>Okubo, K.</u>, Delbridge, B. G., and Denolle, M. A. Monitoring velocity change over 20 years at Parkfield. _accepted_, 2024, [https://doi.org/10.22541/essoar.169841500.01678143/v1](https://doi.org/10.22541/essoar.169841500.01678143/v1).
+[1*] <u>Okubo, K.</u>, Delbridge, B. G., and Denolle, M. A. Monitoring velocity change over 20 years at parkfield. _J. Geophys. Res._, 129(4):e2023JB028084, 2024,  [https://doi.org/10.1029/2023JB028084](https://doi.org/10.1029/2023JB028084).
+
 
 [2]	Takemura, S., Hamada, Y., Okuda, H., Okada, Y., <u>Okubo, K.</u>, Akuhara, T., Noda, A., and Tonegawa, T. A review of shallow slow earthquakes along the Nankai Trough. _Earth, Planets and Space_, 75(1):164, 2023, [https://doi.org/10.1186/s40623-023-01920-6](https://doi.org/10.1186/s40623-023-01920-6).
 
@@ -23,9 +24,9 @@ Will come soon... -->
 
 [6] Knight, E. E., Rougier, E., Lei, Z., Euser, B., Chau, V., Boyce, S. H., Gao, K., <u>Okubo, K.</u>, and Froment, M. HOSS: an implementation of the combined finite-discrete element method. _Computational Particle Mechanics_, 2020, [https://doi.org/10.1007/s40571-020-00349-y](https://doi.org/10.1007/s40571-020-00349-y).
 
-[7*]	<u>Okubo, K.</u>, Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _J. Geophys. Res._, 2019, [https://doi.org/10.1029/2019JB017304](https://doi.org/10.1029/2019JB017304).
+[7*] <u>Okubo, K.</u>, Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. Dynamics, radiation and overall energy budget of earthquake rupture with coseismic off-fault damage. _J. Geophys. Res._, 2019, [https://doi.org/10.1029/2019JB017304](https://doi.org/10.1029/2019JB017304).
 
-[8*]	<u>Okubo, K.</u> [Dynamic earthquake ruptures on multiscale fault and fracture networks.](https://hal.archives-ouvertes.fr/tel-02004905){:target="_blank"} PhD thesis, Institut de Physique du Globe de Paris, November 2018.
+[8*] <u>Okubo, K.</u> [Dynamic earthquake ruptures on multiscale fault and fracture networks.](https://hal.archives-ouvertes.fr/tel-02004905){:target="_blank"} PhD thesis, Institut de Physique du Globe de Paris, November 2018.
 
 [9]	Klinger, Y., <u>Okubo, K.</u>, Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., and others Earthquake damage patterns resolve complex rupture processes. _Geophys. Res. Lett._, 45(19):10--279, 2018, [https://doi.org/10.1029/2018GL078842](https://doi.org/10.1029/2018GL078842).
 
