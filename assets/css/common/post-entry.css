@@ -4,7 +4,7 @@
     display: block;
     flex-direction: column;
     justify-content: center;
-    min-height: 400px;
+    min-height: 350px;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
 }
 
@@ -78,6 +78,7 @@
 
 .entry-content img {
     float: right; /* Allow the image to float right */
+    margin-top: 5px; /* Add margin to the left to separate the image from text */
     margin-left: 20px; /* Add margin to the left to separate the image from text */
     margin-bottom: 20px; /* Add margin to the bottom of the image */
     border-radius: 5%; /* Optional: adds rounded corners */
