@@ -1,0 +1,29 @@
+<!-- Created by ChatGPT, a language model developed by OpenAI.” -->
+<ul class="pub-list">
+  {{ range sort site.Data.publications.publications "year" "desc" }}
+    <li class="pub-item">
+      <div class="pub-box">
+        <div class="pub-title">
+          {{ if .doi }}
+            <a href="https://doi.org/{{ .doi }}" target="_blank" class="title-link">
+              {{ .title }} ({{ .year }})
+            </a>
+          {{ else }}
+            {{ .title }} ({{ .year }})
+          {{ end }}
+        </div>
+        <div class="pub-authors">
+          {{ .authors }}
+        </div>
+        <div class="pub-journal">
+          <b>{{ .journal }}</b>
+        </div>
+        {{ if .doi }}
+        <div class="pub-doi">
+          <a href="https://doi.org/{{ .doi }}" target="_blank" class="doi-link">DOI:{{ .doi }}</a>
+        </div>
+        {{ end }}
+      </div>
+    </li>
+  {{ end }}
+</ul>

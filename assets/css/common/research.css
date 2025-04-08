@@ -1,0 +1,43 @@
+/* “Supported by ChatGPT, a language model developed by OpenAI.” */
+
+.research body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #f9f9f9;
+  }
+.research h1 {
+    text-align: center;
+    color: var(--secondary);
+  }
+.research h2 {
+    text-align: center;
+    color: var(--secondary);
+  }
+.research h3 {
+    text-align: left;
+    color: var(--secondary);
+  }
+.research details {
+    margin: 20px 0;
+    background: white;
+    background: var(--entry2);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 10px 15px;
+  }
+.research summary {
+    font-size: 1.2em;
+    font-weight: bold;
+    cursor: pointer;
+  }
+.research .eyecatch {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+.research p {
+    line-height: 1.6;
+  }

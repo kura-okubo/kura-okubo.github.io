@@ -1,0 +1,125 @@
+/* “Supported by ChatGPT, a language model developed by OpenAI.” */
+.first-entry {
+    position: relative;
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 400px;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+}
+
+.first-entry .entry-header {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+.first-entry .entry-header h1 {
+    font-size: 34px;
+    line-height: 1.3;
+}
+
+.first-entry .entry-content {
+    margin: 14px 0;
+    font-size: 16px;
+    -webkit-line-clamp: 3;
+}
+
+.first-entry .entry-footer {
+    font-size: 14px;
+}
+
+.home-info .entry-content {
+    -webkit-line-clamp: unset;
+}
+
+.post-entry {
+    position: relative;
+    margin-bottom: var(--gap);
+    padding: var(--gap);
+    background: var(--entry);
+    border-radius: var(--radius);
+    transition: transform 0.1s;
+    /* border: 1px solid var(--border); */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.post-entry:active {
+    transform: scale(0.96);
+}
+
+.tag-entry .entry-cover {
+    display: none;
+}
+
+.entry-header h2 {
+    font-size: 24px;
+    line-height: 1.3;
+}
+
+.entry-content {
+    margin: 8px 0;
+    color: var(--secondary);
+    font-size: 14px;
+    line-height: 1.6;
+    overflow: unset; /* Remove overflow:hidden to allow float behavior */
+    display: block; /* Make this block-level to support float */
+    clear: both; /* Clear previous floats */
+}
+
+.entry-content a {
+    color: blue
+}
+
+.entry-content a:visited {
+    color: blueviolet; /* Change to desired color for visited links */
+}
+
+.entry-content img {
+    float: right; /* Allow the image to float right */
+    margin-left: 20px; /* Add margin to the left to separate the image from text */
+    margin-bottom: 20px; /* Add margin to the bottom of the image */
+    border-radius: 5%; /* Optional: adds rounded corners */
+    max-width: 230px; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.entry-footer {
+    color: var(--secondary);
+    font-size: 13px;
+}
+
+.entry-link {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.entry-hint {
+    color: var(--secondary);
+}
+
+.entry-hint-parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.entry-cover {
+    font-size: 14px;
+    margin-bottom: var(--gap);
+    text-align: center;
+}
+
+.entry-cover img {
+    border-radius: var(--radius);
+    width: 100%;
+    height: auto;
+}
+
+.entry-cover a {
+    color: var(--secondary);
+    box-shadow: 0 1px 0 var(--primary);
+}

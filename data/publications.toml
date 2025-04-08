@@ -1,0 +1,79 @@
+# Created by ChatGPT, a language model developed by OpenAI.”
+[[publications]]
+title = "Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity"
+authors = "Okubo, K., Yamashita, F., and Fukuyama, E."
+year = 2025
+journal = "to be submitted"
+
+[[publications]]
+title = "Monitoring velocity change over 20 years at parkfield"
+authors = "Okubo, K., Delbridge, B. G., and Denolle, M. A."
+year = 2024
+journal = "J. Geophys. Res."
+doi = "10.1029/2023JB028084"
+
+[[publications]]
+title = "A review of shallow slow earthquakes along the Nankai Trough"
+authors = "Takemura, S., Hamada, Y., Okuda, H., Okada, Y., Okubo, K., Akuhara, T., Noda, A., and Tonegawa, T."
+year = 2024
+journal = "Earth, Planets and Space"
+doi = "10.1186/s40623-023-01920-6"
+
+[[publications]]
+title = "Optimal stacking of noise cross-correlation functions"
+authors = "Yang, X., Bryan, J., Okubo, K., Jiang, C., Clements, T., and Denolle, M. A."
+year = 2022
+journal = "Geophys. J. Int."
+doi = "10.1093/gji/ggac410"
+
+[[publications]]
+title = "Optimal stacking of noise cross-correlation functions"
+authors = "Yang, X., Bryan, J., Okubo, K., Jiang, C., Clements, T., and Denolle, M. A."
+year = 2022
+journal = "Geophys. J. Int."
+doi = "10.1093/gji/ggac410"
+
+[[publications]]
+title = "Signature of transition to supershear rupture speed in the coseismic off-fault damage zone"
+authors = "Jara, J., Bruhat, L., Thomas, M. Y., Antoine, S. L., Okubo, K., Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., and Bhat, H. S."
+year = 2021
+journal = "Proc. Math. Phys. Eng. Sci."
+doi = "10.1098/rspa.2021.0364"
+
+[[publications]]
+title = "HOSS: an implementation of the combined finite-discrete element method"
+authors = "Knight, E. E., Rougier, E., Lei, Z., Euser, B., Chau, V., Boyce, S. H., Gao, K., Okubo, K., and Froment, M."
+year = 2020
+journal = "Comput. Part. Mech."
+doi = "10.1007/s40571-020-00349-y"
+
+[[publications]]
+title = "SeisIO: A Fast, Efficient Geophysical Data Architecture for the Julia Language"
+authors = "Jones, J. P., Okubo, K., Clements, T., and Denolle, M. A."
+year = 2020
+journal = "Seismol. Res. Lett."
+doi = "10.1785/0220190295"
+
+[[publications]]
+title = "Dynamics, Radiation, and Overall Energy Budget of Earthquake Rupture With Coseismic Off-Fault Damage"
+authors = "Okubo, K., Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y."
+year = 2019
+journal = "J. Geophys. Res."
+doi = "10.1029/2019JB017304"
+
+
+[[publications]]
+title = "Earthquake damage patterns resolve complex rupture processes"
+authors = "Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., and others"
+year = 2018
+journal = "Geophys. Res. Lett."
+doi = "10.1029/2018GL078842"
+
+
+[[thesis]]
+title = "Dynamic earthquake ruptures on multiscale fault and fracture networks"
+authors = "Kurama Okubo"
+year = 2018
+institute = " Institut de Physique du Globe de Paris."
+link = "https://hal.science/tel-02004905"
+

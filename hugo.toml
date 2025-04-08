@@ -1,0 +1,54 @@
+baseURL = 'https://kura-okubo.github.io/'
+languageCode = 'en-us'
+title = 'Kurama Okubo'
+theme = 'PaperMod'
+
+mainsections = ['posts']
+# buildDrafts = false
+
+[[menu.main]]
+identifier = "research"
+name = "RESEARCH"
+url = "research"
+weight = 1
+
+[[menu.main]]
+identifier = "publicatoin"
+name = "PUBLICATION"
+url = "publication"
+weight = 2
+
+[[menu.main]]
+identifier = "code"
+name = "CODE"
+url = "code"
+weight = 3
+
+[[menu.main]]
+identifier = "contact"
+name = "CONTACT"
+url = "contact"
+weight = 4
+
+[params]
+socialIcons = [
+  { name = 'github', url = 'https://github.com/kura-okubo', title = "GitHub"},
+  { name = 'googlescholar', url = 'https://scholar.google.com/citations?user=L79KaX8AAAAJ&hl=en&oi=sra', title = "Google Scholar" },
+  { name = 'orcid', url = 'https://orcid.org/0000-0001-6453-8238', title = "ORCID" },
+  { name = 'cv', url = '/cv/kokubo_CV.pdf', title = "CV"},
+]
+
+# Allow for raw html file in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# [params.profileMode]
+#     enabled = true
+#     imageUrl = "/images/photo/kura-okubo1.jpeg"
+
+[params.homeInfoParams]
+# Title = "About me"
+
+Content_researchsummary = "My research focuses on **earthquake source mechanics**. I have explored this topic through numerical modeling, ambient seismic noise monitoring, and laboratory experiments to clarify the essential processes of earthquake rupture dynamics across different scales. My goal is to unravel earthquake source processes with adequate spatiotemporal resolution, contributing to robust and realistic earthquake rupture scenarios."

@@ -1,0 +1,28 @@
+<!-- Created by ChatGPT, a language model developed by OpenAI.” -->
+<ul class="pub-list">
+  {{ range sort site.Data.presentations.presentations "year" "desc" }}
+    <li class="pub-item">
+      <div class="pub-box">
+        <div class="pub-title">
+          {{ if .link }}
+            <a href="{{ .link }}" target="_blank" class="title-link">
+              {{ .title }} ({{ .year }})
+            </a>
+          {{ else }}
+            {{ .title }} ({{ .year }})
+          {{ end }}
+        </div>
+        <div class="pub-authors">
+          {{ .authors }}
+        </div>
+        <div class="pub-journal">
+          <b>{{ .conference }}</b>
+          {{ if .invited }}
+            <b>, Invited.</b>
+          {{ end }}
+        </div>
+
+      </div>
+    </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,49 @@
+/* Supported by ChatGPT, a language model developed by OpenAI. */
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-item {
+  margin-bottom: 20px;
+}
+
+.pub-box {
+  background-color: var(--entry);
+  border-radius: 8px;
+  padding: 15px 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pub-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 8px;
+}
+
+.pub-authors {
+  margin-bottom: 6px;
+  color: var(--content);
+}
+
+.pub-journal {
+  font-weight: normal;
+  margin-bottom: 6px;
+}
+
+.pub-doi .doi-link {
+  display: inline-block;
+  background-color: var(--doilinkbg);
+  border: 1px solid var(--doilinkborder);
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--content);
+  font-size: 0.95em;
+}
+
+.pub-doi .doi-link:hover {
+  background-color: #dbeafe;
+  border-color: #6366f1;
+}
