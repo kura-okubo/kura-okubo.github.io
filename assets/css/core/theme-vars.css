@@ -11,6 +11,7 @@
     --entry: rgba(255, 255, 255);
     --entry2: rgba(255, 255, 255, 0.5);
     --link1: rgb(42, 45, 249);
+    --header1: rgb(0, 0, 0);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(50, 50, 50);
     --tertiary: rgb(214, 214, 214);
@@ -27,6 +28,7 @@
     --entry: rgb(46, 46, 51);
     --entry2: rgb(46, 46, 51);
     --link1: rgb(230, 230, 230);
+    --header1: rgb(230, 230, 230);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);
     --tertiary: rgb(65, 66, 68);
@@ -34,7 +36,7 @@
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
-    --doilinkbg: rgb(150, 0, 100);
+    --doilinkbg: rgb(69, 66, 73);
     --doilinkborder: rgb(150, 150, 150);
 }
 

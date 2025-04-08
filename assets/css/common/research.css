@@ -13,11 +13,11 @@
   }
 .research h2 {
     text-align: center;
-    color: var(--secondary);
+    color: var(--header1);
   }
 .research h3 {
     text-align: left;
-    color: var(--secondary);
+    color: var(--header1);
   }
 .research details {
     margin: 20px 0;
@@ -41,3 +41,25 @@
 .research p {
     line-height: 1.6;
   }
+
+.research ul li div {
+    white-space: normal;  /* Allows wrapping */
+    word-wrap: break-word; /* Ensures long words break appropriately */
+    overflow-wrap: break-word; /* Ensures words with no spaces break properly */
+}
+
+@media (max-width: 600px) {
+.research ul li div {
+      font-size: 14px; /* Decrease font size for mobile */
+      line-height: 1.4; /* Adjust line height to make it more compact */
+  }
+}
+
+.research ul li img {
+  max-width: 100%; /* Makes the image responsive */
+  height: auto; /* Ensures the image scales proportionally */
+}
+
+.research ul li {
+  padding: 5px 0; /* Add vertical padding for spacing */
+}
