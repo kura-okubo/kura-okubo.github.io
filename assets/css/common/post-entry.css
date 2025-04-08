@@ -69,7 +69,7 @@
 }
 
 .entry-content a {
-    color: blue
+    color: var(--link1)
 }
 
 .entry-content a:visited {
