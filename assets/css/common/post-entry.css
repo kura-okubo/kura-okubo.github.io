@@ -73,7 +73,7 @@
 }
 
 .entry-content a:visited {
-    color: blueviolet; /* Change to desired color for visited links */
+    color: var(--link1); /* Change to desired color for visited links */
 }
 
 .entry-content img {

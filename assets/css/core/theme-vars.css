@@ -10,6 +10,7 @@
     /* --entry: rgba(252, 240, 120, 0.2); */
     --entry: rgba(255, 255, 255);
     --entry2: rgba(255, 255, 255, 0.5);
+    --link1: rgb(42, 45, 249);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(50, 50, 50);
     --tertiary: rgb(214, 214, 214);
@@ -25,6 +26,7 @@
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
     --entry2: rgb(46, 46, 51);
+    --link1: rgba(240, 240, 240, 0.5);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);
     --tertiary: rgb(65, 66, 68);
