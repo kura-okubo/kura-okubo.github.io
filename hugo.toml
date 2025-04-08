@@ -38,6 +38,8 @@ socialIcons = [
   { name = 'cv', url = '/cv/kokubo_CV.pdf', title = "CV"},
 ]
 
+defaultTheme = "light"
+
 # Allow for raw html file in markdown
 [markup]
   [markup.goldmark]
