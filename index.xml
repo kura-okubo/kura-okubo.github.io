@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kurama Okubo</title><link>https://kura-okubo.github.io/</link><description>Recent content on Kurama Okubo</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kura-okubo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Talk in ERC TECTONIC-FEAR Seminars</title><link>https://kura-okubo.github.io/posts/erctalk2025/</link><pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/erctalk2025/</guid><description>My talk on a current project of the stick-slip experiments with controlled gouge patch asperities is now available on Youtube.</description></item><item><title>Talk in Cargèse international workshop - 4th edition</title><link>https://kura-okubo.github.io/posts/cargesetalk2024/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/cargesetalk2024/</guid><description>My talk on the dynamic earthquake rupture modeling with coseismic off-fault damage is now available on Youtube.</description></item><item><title>New paper: Monitoring velocity change over 20 years at Parkfield is published.</title><link>https://kura-okubo.github.io/posts/okuboetal2024/</link><pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/okuboetal2024/</guid><description>New paper on the monitoring dv/v using ambient seismic noise</description></item><item><title/><link>https://kura-okubo.github.io/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/code/</guid><description>&lt;h1 id="software-tools">Software tools&lt;/h1>
+&lt;p>Here is the list of software tools I developed. See the other softwares in &lt;a href="https://github.com/kura-okubo?tab=repositories" target="_blank" rel="noopener">my GitHub repository&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="aesensor-calibration-using-arx-model">&lt;a href="https://github.com/kura-okubo/AEsensor_Calibration_ARX" target="_blank" rel="noopener">AEsensor Calibration using ARX model&lt;/a>&lt;/h2>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Application: Lab Experiments&lt;/p>&lt;/blockquote>
+&lt;p>Estimate poles and zeros of the sensor response to calibrate amplitude and frequency response.&lt;/p>
+&lt;ul>
+&lt;li>Example for the removal of instrumental response from AE waveforms: &lt;a href="https://nbviewer.org/github/kura-okubo/AEsensor_Calibration_ARX/blob/master/src/02_Apply_removalresp_to_AEevent.ipynb" target="_blank">
+&lt;img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" style="display: inline-block; width: 109px; height: 20px; vertical-align: middle;">
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center;">
+&lt;img src="https://kura-okubo.github.io/images/code/AEsensor_calib_schematic.png" alt="code-images" style="display: inline-block; width: 700px; border-radius: 8px;"">
+&lt;img src="https://kura-okubo.github.io/images/code/AEsensor_bode_fronttop.jpg" alt="code-images" style="display: inline-block; width: 600px; border-radius: 8px;">
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;h2 id="seismonitoringjl">&lt;a href="https://github.com/kura-okubo/SeisMonitoring.jl" target="_blank" rel="noopener">SeisMonitoring.jl&lt;/a>&lt;/h2>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Application: Ambient seismic noise monitoting&lt;/p></description></item><item><title/><link>https://kura-okubo.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/contact/</guid><description>&lt;h1 id="kurama-okubo">Kurama Okubo&lt;/h1>
+&lt;p>National Research Institute for Earth Science and Disaster Resilience (NIED)&lt;/p>
+&lt;p>3-1, Tennodai, Tsukuba, Ibaraki, 305-0006, JAPAN&lt;/p>
+&lt;p>kokubo[at]bosai.go.jp&lt;/p>
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.6787387059635!2d140.08937971517764!3d36.12568378009306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6022094861c409c7%3A0x6f1186571e6e0f3b!2z6Ziy54G956eR5a2m5oqA6KGT56CU56m25omA!5e0!3m2!1sja!2sjp!4v1601587998115!5m2!1sja!2sjp" width="320" height="320" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">&lt;/iframe></description></item><item><title/><link>https://kura-okubo.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/research/</guid><description>&lt;div class="research">
+&lt;h2>Earthquake mechanism from &amp;micro;s to decades&lt;/h2>
+&lt;details>
+&lt;summary>Laboratory Experiments&lt;/summary>
+&lt;!-- &lt;img src="https://kura-okubo.github.io/images/pubimages/lab-experiment.jpg" alt="Laboratory Experiment" class="eyecatch"> -->
+&lt;h3>Verifying and Expanding Theoretical Predictions through Large-Scale Laboratory Friction Experiments.&lt;/h3>
+By controlling source conditions and minimizing uncertainties in both source characteristics and wave propagation paths, we seek to validate theoretical hypotheses regarding earthquake rupture processes. Furthermore, we update the source mechanisms inferred from these laboratory experiments, which will contribute as analogs for natural earthquakes.
+&lt;br>&lt;br>
+&lt;ul>
+&lt;li>Okubo, K., Yamashita, F., and Fukuyama, E. Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity, to be submitted.
+&lt;/ul>
+&lt;h3>Seminar Talk&lt;/h3>
+&lt;div style="text-align: center;">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_D3_mErw6sg?si=n0dNndk2xI_Y6XEz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;/div>
+&lt;/details>
+&lt;details>
+&lt;summary>Dynamic Rupture Modeling&lt;/summary>
+&lt;h3>Spatiotemporally High-Resolution Fault Rupture Dynamics: Essential for Understanding Earthquakes.&lt;/h3>
+&lt;img src="https://kura-okubo.github.io/images/pubimages/okuboetal2019.jpg" alt="Dynamic Rupture" class="eyecatch">
+Modeling dynamic earthquake ruptures with co-seismic off-fault damage, by incorporating small-scale source heterogeneities, using the combined finite-discrete element method (FDEM) implemented in the &lt;a href="https://link.springer.com/article/10.1007/s40571-020-00349-y" target="_blank" rel="noopener noreferrer">Hybrid Optimization Software Suite (HOSSedu)&lt;/a>. We investigate their effects on rupture dynamics, seismic radiation, and the overall energy budget.
+&lt;h3>Gallery&lt;/h3>
+&lt;iframe width="680" height="400" rel="0" src="https://www.youtube.com/embed/jWD0B7CIv9w">
+&lt;/iframe>
+&lt;br>&lt;br>
+&lt;iframe width="680" height="400" src="https://www.youtube.com/embed/NPvLVNhl1VQ?si=dUf0zF8L8U6sMw3Z">
+&lt;/iframe>
+&lt;ul>
+&lt;br>
+&lt;li>Okubo, K., Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y. (2019) Dynamics, Radiation, and Overall Energy Budget of Earthquake Rupture With Coseismic Off-Fault Damage. J. Geophys. Res.&lt;br>
+&lt;a href="https://doi.org/10.1029/2019JB017304" target="_blank" rel="noopener noreferrer">doi:10.1029/2019JB017304&lt;/a>.
+&lt;li>Klinger, Y., Okubo, K. et al. (2018) Earthquake damage patterns resolve complex rupture processes. Geophys. Res. Lett.
+&lt;br>
+&lt;a href="https://doi.org/10.1029/2018GL078842" target="_blank" rel="noopener noreferrer">doi:10.1029/2018GL078842&lt;/a>.
+&lt;li>Jara, J., Bruhat, L., Thomas, M. Y., Antoine, S. L., Okubo, K., Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., and Bhat, H. S. (2021) Signature of transition to supershear rupture speed in the coseismic off-fault damage zone. Proc. Math. Phys. Eng. Sci.
+&lt;br>
+&lt;a href="https://doi.org/10.1098/rspa.2021.0364" target="_blank" rel="noopener noreferrer">doi:10.1098/rspa.2021.0364&lt;/a>.
+&lt;/ul>
+&lt;/details>
+&lt;details>
+&lt;summary>Monitoring&lt;/summary>
+&lt;h3>Monitoring Fault Over Decades to Address the Earthquake Generation Mechanisms in Real Time Scale.&lt;/h3>
+&lt;img src="https://kura-okubo.github.io/images/pubimages/Okuboetal2024_eyecatch2.jpg" alt="Monitoring" class="eyecatch">
+&lt;p>
+The decadal, terabyte-scale seismic dataset enables the investigation of fault state evolution. We conducted ambient seismic noise cross-correlation using 20 years of data from Parkfield, operated by the
+&lt;a href="https://doi.org/10.7932/HRSN" target="_blank" rel="noopener noreferrer">High-Resolution Seismic Network (HRSN)&lt;/a> and archived at the
+&lt;a href="https://doi.org/10.7932/NCEDC" target="_blank" rel="noopener noreferrer">Northern California Earthquake Data Center&lt;/a>. Using in-house Julia-based software, SeisIO.jl (currently maintained as &lt;a href="https://github.com/JuliaSeismo/SeisBase.jl" target="_blank" rel="noopener noreferrer">SeisBase.jl&lt;/a>), and a comprehensive software package &lt;a href="https://github.com/kura-okubo/SeisMonitoring.jl" target="_blank" rel="noopener">SeisMonitoring.jl&lt;/a>, we were able to handle this large dataset.
+&lt;/p></description></item><item><title>Publications</title><link>https://kura-okubo.github.io/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/publication/</guid><description>&lt;ul class="pub-list">
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity (2025)
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Yamashita, F., and Fukuyama, E.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>to be submitted&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1029/2023JB028084" target="_blank" class="title-link">
+Monitoring velocity change over 20 years at parkfield (2024)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Delbridge, B. G., and Denolle, M. A.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>J. Geophys. Res.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1029/2023JB028084" target="_blank" class="doi-link">DOI:10.1029/2023JB028084&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1186/s40623-023-01920-6" target="_blank" class="title-link">
+A review of shallow slow earthquakes along the Nankai Trough (2024)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Takemura, S., Hamada, Y., Okuda, H., Okada, Y., Okubo, K., Akuhara, T., Noda, A., and Tonegawa, T.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Earth, Planets and Space&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1186/s40623-023-01920-6" target="_blank" class="doi-link">DOI:10.1186/s40623-023-01920-6&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1093/gji/ggac410" target="_blank" class="title-link">
+Optimal stacking of noise cross-correlation functions (2022)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Yang, X., Bryan, J., Okubo, K., Jiang, C., Clements, T., and Denolle, M. A.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Geophys. J. Int.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1093/gji/ggac410" target="_blank" class="doi-link">DOI:10.1093/gji/ggac410&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1093/gji/ggac410" target="_blank" class="title-link">
+Optimal stacking of noise cross-correlation functions (2022)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Yang, X., Bryan, J., Okubo, K., Jiang, C., Clements, T., and Denolle, M. A.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Geophys. J. Int.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1093/gji/ggac410" target="_blank" class="doi-link">DOI:10.1093/gji/ggac410&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1098/rspa.2021.0364" target="_blank" class="title-link">
+Signature of transition to supershear rupture speed in the coseismic off-fault damage zone (2021)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Jara, J., Bruhat, L., Thomas, M. Y., Antoine, S. L., Okubo, K., Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., and Bhat, H. S.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Proc. Math. Phys. Eng. Sci.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1098/rspa.2021.0364" target="_blank" class="doi-link">DOI:10.1098/rspa.2021.0364&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1007/s40571-020-00349-y" target="_blank" class="title-link">
+HOSS: an implementation of the combined finite-discrete element method (2020)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Knight, E. E., Rougier, E., Lei, Z., Euser, B., Chau, V., Boyce, S. H., Gao, K., Okubo, K., and Froment, M.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Comput. Part. Mech.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1007/s40571-020-00349-y" target="_blank" class="doi-link">DOI:10.1007/s40571-020-00349-y&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1785/0220190295" target="_blank" class="title-link">
+SeisIO: A Fast, Efficient Geophysical Data Architecture for the Julia Language (2020)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Jones, J. P., Okubo, K., Clements, T., and Denolle, M. A.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Seismol. Res. Lett.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1785/0220190295" target="_blank" class="doi-link">DOI:10.1785/0220190295&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1029/2019JB017304" target="_blank" class="title-link">
+Dynamics, Radiation, and Overall Energy Budget of Earthquake Rupture With Coseismic Off-Fault Damage (2019)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Bhat, H. S., Rougier, E., Marty, S., Schubnel, A., Lei, Z., Knight, E. E., and Klinger, Y.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>J. Geophys. Res.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1029/2019JB017304" target="_blank" class="doi-link">DOI:10.1029/2019JB017304&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://doi.org/10.1029/2018GL078842" target="_blank" class="title-link">
+Earthquake damage patterns resolve complex rupture processes (2018)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Klinger, Y., Okubo, K., Vallage, A., Champenois, J., Delorme, A., Rougier, E., Lei, Z., Knight, E. E., Munjiza, A., Satriano, C., and others
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>Geophys. Res. Lett.&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.1029/2018GL078842" target="_blank" class="doi-link">DOI:10.1029/2018GL078842&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="thesis">Thesis&lt;/h2>
+&lt;ul class="pub-list">
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://hal.science/tel-02004905" target="_blank" class="title-link">
+Dynamic earthquake ruptures on multiscale fault and fracture networks (2018)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Kurama Okubo
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b> Institut de Physique du Globe de Paris.&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="selected-presentations">Selected presentations&lt;/h2>
+&lt;ul class="pub-list">
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1554112" target="_blank" class="title-link">
+Non-self-similarity of Laboratory Microearthquakes Generated by Controlled Gouge Patch (2024)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Yamashita, F., and Fukuyama, E.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>AGU Annual Meeting 2024, Washington, D.C.&lt;/b>
+&lt;b>, Invited.&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://seismosoc.secure-platform.com/a/gallery/rounds/38/details/11049" target="_blank" class="title-link">
+Constraining Source Parameters of Seismic Events Generated by Circular Gouge Patches on 4-meter-long Laboratory Fault (2024)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Yamashita, F., and Fukuyama, E.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>SSA Annual Meeting 2024&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1101827" target="_blank" class="title-link">
+Estimate the source properties of foreshocks that occurred during stick-slip experiments using the 4-meter-long biaxial rock friction apparatus (2022)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Yamashita, F., and Fukuyama, E.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>AGU Fall Meeting 2022, Chicago&lt;/b>
+&lt;b>, Invited.&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="pub-item">
+&lt;div class="pub-box">
+&lt;div class="pub-title">
+&lt;a href="https://confit.atlas.jp/guide/event/jpgu2022/subject/SSS07-13/advanced" target="_blank" class="title-link">
+Estimation of source properties with foreshocks on a 4-meter-long laboratory fault using synthetic Green&amp;#39;s function (2022)
+&lt;/a>
+&lt;/div>
+&lt;div class="pub-authors">
+Okubo, K., Yamashita, F., and Fukuyama, E.
+&lt;/div>
+&lt;div class="pub-journal">
+&lt;b>JpGU Meeting 2022&lt;/b>
+&lt;b>, Invited.&lt;/b>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
