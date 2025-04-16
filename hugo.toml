@@ -30,6 +30,12 @@ name = "CONTACT"
 url = "contact"
 weight = 4
 
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/kokubo_CV.pdf"
+weight = 5
+
 [params]
 socialIcons = [
   { name = 'github', url = 'https://github.com/kura-okubo', title = "GitHub"},
