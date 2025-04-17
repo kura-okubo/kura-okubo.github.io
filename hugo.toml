@@ -33,7 +33,7 @@ weight = 4
 [[menu.main]]
 identifier = "cv"
 name = "CV"
-url = "/cv/kokubo_CV.pdf"
+url = "https://kura-okubo.github.io/cv/kokubo_CV.pdf"
 weight = 5
 
 [params]
