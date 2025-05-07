@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kurama Okubo</title><link>https://kura-okubo.github.io/</link><description>Recent content on Kurama Okubo</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kura-okubo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Talk in ERC TECTONIC-FEAR Seminars</title><link>https://kura-okubo.github.io/posts/erctalk2025/</link><pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/erctalk2025/</guid><description>My talk on a current project of the stick-slip experiments with controlled gouge patch asperities is now available on Youtube.</description></item><item><title>Talk in Cargèse international workshop - 4th edition</title><link>https://kura-okubo.github.io/posts/cargesetalk2024/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/cargesetalk2024/</guid><description>My talk on the dynamic earthquake rupture modeling with coseismic off-fault damage is now available on Youtube.</description></item><item><title>New paper: Monitoring velocity change over 20 years at Parkfield is published.</title><link>https://kura-okubo.github.io/posts/okuboetal2024/</link><pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/okuboetal2024/</guid><description>New paper on the monitoring dv/v using ambient seismic noise</description></item><item><title/><link>https://kura-okubo.github.io/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/code/</guid><description>&lt;h1 id="software-tools">Software tools&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kurama Okubo</title><link>https://kura-okubo.github.io/</link><description>Recent content on Kurama Okubo</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kura-okubo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>New Preprint Available</title><link>https://kura-okubo.github.io/posts/okuboetal_preprint/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/okuboetal_preprint/</guid><description>Our new work, Dynamics of Non-Self-Similar Earthquakes Illuminated by a Controlled Fault Asperity, is now available as a preprint.</description></item><item><title>Talk in ERC TECTONIC-FEAR Seminars</title><link>https://kura-okubo.github.io/posts/erctalk2025/</link><pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/erctalk2025/</guid><description>My talk on a current project of the stick-slip experiments with controlled gouge patch asperities is now available on Youtube.</description></item><item><title>Talk in Cargèse international workshop - 4th edition</title><link>https://kura-okubo.github.io/posts/cargesetalk2024/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/cargesetalk2024/</guid><description>My talk on the dynamic earthquake rupture modeling with coseismic off-fault damage is now available on Youtube.</description></item><item><title>New paper: Monitoring velocity change over 20 years at Parkfield is published.</title><link>https://kura-okubo.github.io/posts/okuboetal2024/</link><pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/posts/okuboetal2024/</guid><description>New paper on the monitoring dv/v using ambient seismic noise</description></item><item><title/><link>https://kura-okubo.github.io/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kura-okubo.github.io/code/</guid><description>&lt;h1 id="software-tools">Software tools&lt;/h1>
 &lt;p>Here is the list of software tools I developed. See the other softwares in &lt;a href="https://github.com/kura-okubo?tab=repositories" target="_blank" rel="noopener">my GitHub repository&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>
@@ -36,7 +36,8 @@
 By controlling source conditions and minimizing uncertainties in both source characteristics and wave propagation paths, we seek to validate theoretical hypotheses regarding earthquake rupture processes. Furthermore, we update the source mechanisms inferred from these laboratory experiments, which will contribute as analogs for natural earthquakes.
 &lt;br>&lt;br>
 &lt;ul>
-&lt;li>Okubo, K., Yamashita, F., and Fukuyama, E. Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity, under review.
+&lt;li>Okubo, K., Yamashita, F., and Fukuyama, E. Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity, under review, &lt;br>
+&lt;b>Preprint: &lt;a href="https://assets-eu.researchsquare.com/files/rs-6553961/v1_covered_7c17e7c1-523d-4665-a52e-a28af3e82998.pdf?c=1746590161" target="_blank" rel="noopener noreferrer">doi:10.21203/rs.3.rs-6553961/v1&lt;/a>. &lt;/b>
 &lt;/ul>
 &lt;h3>Seminar Talk&lt;/h3>
 &lt;div style="text-align: center;">
@@ -78,13 +79,18 @@ The decadal, terabyte-scale seismic dataset enables the investigation of fault s
 &lt;li class="pub-item">
 &lt;div class="pub-box">
 &lt;div class="pub-title">
+&lt;a href="https://doi.org/10.21203/rs.3.rs-6553961/v1" target="_blank" class="title-link">
 Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity (2025)
+&lt;/a>
 &lt;/div>
 &lt;div class="pub-authors">
 Okubo, K., Yamashita, F., and Fukuyama, E.
 &lt;/div>
 &lt;div class="pub-journal">
-&lt;b>under review&lt;/b>
+&lt;b>Under Review&lt;/b>
+&lt;/div>
+&lt;div class="pub-doi">
+&lt;a href="https://doi.org/10.21203/rs.3.rs-6553961/v1" target="_blank" class="doi-link">DOI:10.21203/rs.3.rs-6553961/v1&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/li>
