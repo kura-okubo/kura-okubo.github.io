@@ -5,6 +5,7 @@ theme = 'PaperMod'
 
 mainsections = ['posts']
 # buildDrafts = false
+ShowPostNavLinks = true
 
 [[menu.main]]
 identifier = "research"
