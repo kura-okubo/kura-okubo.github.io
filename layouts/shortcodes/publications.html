@@ -6,7 +6,11 @@
         <div class="pub-title">
           {{ if .doi }}
             <a href="https://doi.org/{{ .doi }}" target="_blank" class="title-link">
-              {{ .title }} ({{ .year }})
+              {{ if .preprint }}
+                {{ .title }} 
+              {{ else }}
+                {{ .title }} ({{ .year }})
+              {{ end }}
             </a>
           {{ else }}
             {{ .title }} ({{ .year }})

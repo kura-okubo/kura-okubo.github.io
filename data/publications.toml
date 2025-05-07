@@ -2,8 +2,9 @@
 [[publications]]
 title = "Dynamics of non-self-similar earthquakes illuminated by a controlled fault asperity"
 authors = "Okubo, K., Yamashita, F., and Fukuyama, E."
-year = 2025
 journal = "Under Review"
+year = 2025
+preprint = true
 doi = "10.21203/rs.3.rs-6553961/v1"
 
 [[publications]]
