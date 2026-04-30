@@ -2,7 +2,7 @@
 title: 'New Preprint Available'
 summary: 'Our new work, Dynamics of Non-Self-Similar Earthquakes Illuminated by a Controlled Fault Asperity, is now available as a preprint.'
 date: 2025-05-07
-draft: false
+draft: true
 ---
 
 Our new work is now available as a preprint:
