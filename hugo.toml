@@ -41,6 +41,7 @@ weight = 5
 socialIcons = [
   { name = 'github', url = 'https://github.com/kura-okubo', title = "GitHub"},
   { name = 'googlescholar', url = 'https://scholar.google.com/citations?user=L79KaX8AAAAJ&hl=en&oi=sra', title = "Google Scholar" },
+  { name = 'linkedin', url = 'https://www.linkedin.com/in/kurama-okubo-8135b2b3/', title = "LinkedIn" },
   { name = 'orcid', url = 'https://orcid.org/0000-0001-6453-8238', title = "ORCID" },
   { name = 'cv', url = '/cv/kokubo_cv.pdf', title = "CV"},
 ]
